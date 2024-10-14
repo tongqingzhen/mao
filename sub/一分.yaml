@@ -18,7 +18,7 @@ dns:
     fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32] }
 proxies:
     - { name: '剩余流量：120 GB', server: 163.123.192.140, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: cfc59420-d422-44f9-8029-084c3130fabc }
-    - { name: 套餐到期：,6个月 server: 163.123.192.140, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: cfc59420-d422-44f9-8029-084c3130fabc }
+    - { name: 套餐到期：,6个月, server: 163.123.192.140, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: cfc59420-d422-44f9-8029-084c3130fabc }
     - { name: 🇺🇸美国凤凰城专线1, server: 163.123.192.140, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: cfc59420-d422-44f9-8029-084c3130fabc }
     - { name: 🇺🇸美国凤凰城专线2, server: 163.123.192.112, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: cfc59420-d422-44f9-8029-084c3130fabc }
     - { name: 🇦🇺澳大利亚悉尼, server: 192.9.181.38, port: 20000, ports: 20000-55000, mport: 20000-55000, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: cfc59420-d422-44f9-8029-084c3130fabc }
