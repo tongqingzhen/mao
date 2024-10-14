@@ -1,1 +1,0 @@
-https://www.yfjc.xyz/api/v1/client/subscribe?token=a8c8e8b25bece571684ea8761fba3383
