@@ -1,0 +1,125 @@
+{
+	"urls": [
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://mpanso.me/DEMO.json",
+            "name": "小米"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/drpy_t3/api.json",
+            "name": "drpy_t3精选"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/南风/api.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/PG/api.json",
+            "name": "PG"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼儿"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "纯一骚零"
+        },
+        {
+            "url": "https://d.kstore.dev/download/7213/吃猫的鱼",
+            "name": "吃猫的鱼"
+        },
+                {
+            "url": "http://ok321.top/tv",
+            "name": "ok"
+        },
+                {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧记"
+        },
+                {
+            "url": "http://bp.tvbox.cam/",
+            "name": "小白"
+        },
+                {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/欧歌/api.json",
+            "name": "欧歌"
+        },
+        {
+        	"url": "http://tvbox.王二小放牛娃.top",
+            "name": "王二小"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/潇洒/api.json",
+            "name": "潇洒"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/短剧频道/api.json",
+            "name": "短剧频道"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/戏曲音乐/api.json",
+            "name": "戏曲音乐"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/天天开心/api.json",
+            "name": "天天开心"
+        },
+        {
+        	"url": "https://bitbucket.org/ls125781003/tvtg/raw/main/少儿频道/api.json",
+            "name": "少儿频道"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/tvbox/api.json",
+            "name": "聚"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/test1/api.json",
+            "name": "选"
+        },
+
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/影视/api.json",
+            "name": "影视"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/动漫/api.json",
+            "name": "动漫"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/文艺/api.json",
+            "name": "文艺"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/体育/api.json",
+            "name": "体育"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/教育/api.json",
+            "name": "教育"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/直播/api.json",
+            "name": "直播"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/磁力/api.json",
+            "name": "磁力"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/testboxapi/raw/main/cang/云盘/api.json",
+            "name": "云盘"
+        }
+    ]
+}
